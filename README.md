@@ -1,5 +1,16 @@
-### Hi there 👋
+### Hey 👋
 
+At the time of writing this, im currently an incoming second (2nd) year computer science student
+
+##### Currently learning:
+- Javascript / TypeScript
+- Java
+- Flutter
+- Full stack
+
+##### Currently working on:
+- My own website
+- beginner projects
 <!--
 **notbuzzK/notbuzzK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
